@@ -1,2 +1,1 @@
-# Movie-info-finder
-A repo to get information about a movie
+A simple Python terminal application that lets users search for any movie and retrieve detailed information, including title, release year, director, genre, plot summary, and IMDb rating. The program uses the free OMDb API (Open Movie Database) to fetch real-time movie data.
